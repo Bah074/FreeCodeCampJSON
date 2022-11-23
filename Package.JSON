@@ -1,5 +1,6 @@
 {
-  "name": "Mac Decker",
+  "name": "fcc-learn-npm-package-json",
+  "author": "Mac Decker"
   "dependencies": {
     "express": "^4.14.0"
   },
